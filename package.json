@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/emonridwa/ADF-ID#readme",
   "dependencies": {
+    "@emonridwa/adf-id": "^1.0.0",
     "adf-id": "^1.0.0"
-  }
+  },
+  "devDependencies": {}
 }
